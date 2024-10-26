@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Zain Faruqi]
+# Hi there! 👋 I'm Zain Faruqi
 
 ## About Me
 🎓 I'm student passionate about Data science, tier 1 support technician, and software engineering
