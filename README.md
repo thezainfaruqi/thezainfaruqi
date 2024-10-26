@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Zain Faruqi]
 
-<!--
-**thezainfaruqi/thezainfaruqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 I'm student passionate about Data science, tier 1 support technician, and software engineering
+🌱 Currently learning Python and Lua 
+📚 Working on building my programming skills
 
-Here are some ideas to get you started:
+## Current Focus
+- 🔧 Problem Solving
+- 📊 Building projects to learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+:)
+
+## Skills In Progress
+- Git/GitHub
+
+## Connect With Me
+- GitHub: [thezainfaruqi]
