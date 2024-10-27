@@ -10,7 +10,7 @@
 - 📊 Building projects to learn
 
 ## My Projects
-:)
+Tic tac toe game
 
 ## Skills In Progress
 - Git/GitHub
