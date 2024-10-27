@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Zain Faruqi
 
 ## About Me
-🎓 I'm student passionate about Data science, tier 1 support technician, and software engineering
+🎓 I'm student at HHW passionate in tech
 🌱 Currently learning Python and Lua 
 📚 Working on building my programming skills
 
@@ -16,4 +16,4 @@
 - Git/GitHub
 
 ## Connect With Me
-- GitHub: [thezainfaruqi]
+- GitHub: thezainfaruqi
