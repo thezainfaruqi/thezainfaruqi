@@ -1,9 +1,9 @@
 # Hi there! 👋 I'm Zain Faruqi
 
 ## About Me
-🎓 I'm student at HHW passionate in tech
-🌱 Currently learning Python and Lua 
-📚 Working on building my programming skills
+-🎓 I'm student at HHW passionate in tech
+-🌱 Currently learning Python and Lua 
+-📚 Working on building my programming skills
 
 ## Current Focus
 - 🔧 Problem Solving
