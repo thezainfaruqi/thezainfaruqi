@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Zain Faruqi
 
 ## About Me
-- 🎓 I'm student at HHW passionate in tech
+- 🎓 I'm a student at HHW passionate about tech
 - 🌱 Currently learning Python and Lua 
 - 📚 Working on building my programming skills
 
