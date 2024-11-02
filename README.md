@@ -11,6 +11,7 @@
 
 ## My Projects
 Tic tac toe game
+Weather API App
 
 ## Skills In Progress
 - Git/GitHub
