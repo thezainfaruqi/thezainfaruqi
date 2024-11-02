@@ -10,8 +10,8 @@
 - 📊 Building projects to learn
 
 ## My Projects
-Tic tac toe game
-Weather API App
+- Tic tac toe game
+- Weather API App
 
 ## Skills In Progress
 - Git/GitHub
