@@ -1,10 +1,30 @@
 <h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a software enthusiast</h2>
 
+![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
+
+### About Me
+- 🎓 I'm a student at HHW passionate about tech
+- 🌱 Currently learning Python and Lua
+- 📚 Working on building my programming skills
+
+### Current Focus
+- 🔧 Problem Solving
+- 📊 Building projects to learn
+
+### My Projects
+- Tic Tac Toe game
+- Weather API App
+
+### Skills In Progress
+- Git/GitHub
+
+### Connect With Me
+- GitHub: [thezainfaruqi](https://github.com/thezainfaruqi)
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZainFaruqi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZainFaruqi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
