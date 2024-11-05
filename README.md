@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a software enthusiast</h2>
 
-![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
-
 ### About Me
 - 🎓 I'm a student at HHW passionate about tech
 - 🌱 Currently learning Python and Lua
@@ -39,6 +37,7 @@
 </div>
 
 ###
+![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
 
 <div align="left">
 </div>
