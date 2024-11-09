@@ -1,17 +1,18 @@
-<h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a software enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a shinobi enthusiast</h2>
 
 ### About Me
-- 🎓 I'm a student at HHW passionate about tech
+- 🎓 I'm a huge naruto fan (im actualy okatu)
 - 🌱 Currently learning Python and Lua
 - 📚 Working on building my programming skills
 
 ### Current Focus
 - 🔧 Problem Solving
-- 📊 Building projects to learn
+- 📊 Watching more anime
 
 ### My Projects
 - Tic Tac Toe game
 - Weather API App
+- Shinobi game (in progress)
 
 ### Skills In Progress
 - Git/GitHub
