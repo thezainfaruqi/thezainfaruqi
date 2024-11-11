@@ -12,7 +12,7 @@
 ### My Projects
 - Tic Tac Toe game
 - Weather API App
-- Shinobi game (in progress)
+- Shinobi game (in progress!)
 
 ### Skills In Progress
 - Git/GitHub
