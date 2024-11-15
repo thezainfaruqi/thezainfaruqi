@@ -6,8 +6,8 @@
 - 📚 Working on building my programming skills
 
 ### Current Focus
-- 🔧 Problem Solving
-- 📊 Watching more anime
+- 🔧 Tress
+- 📊 2d grids
 
 ### My Projects
 - Tic Tac Toe game
