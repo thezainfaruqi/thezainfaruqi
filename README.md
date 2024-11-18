@@ -8,6 +8,7 @@
 ### Current Focus
 - 🔧 Tress
 - 📊 2d grids
+- How to center a div
 
 ### My Projects
 - Tic Tac Toe game
