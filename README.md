@@ -39,6 +39,7 @@
 </div>
 
 ###
+The project didnt work man ;(
 ![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
 
 <div align="left">
