@@ -14,6 +14,7 @@
 - Tic Tac Toe game
 - Weather API App
 - Shinobi game (in progress!)
+- Not working on projects until May 2025
 
 ### Skills In Progress
 - Git/GitHub
