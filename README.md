@@ -6,7 +6,6 @@
 - 📚 Working on building my programming skills
 
 ### Current Focus
-- 🔧 Tress
 - 📊 2d grids
 - To center a div
 
