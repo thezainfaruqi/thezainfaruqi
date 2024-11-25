@@ -2,7 +2,7 @@
 
 ### About Me
 - 🎓 I'm a huge naruto fan (im actualy okatu)
-- 🌱 Currently learning Python and Lua
+- 🌱 Currently learning Python and Lua (also im a goat at JS!)
 - 📚 Working on building my programming skills
 
 ### Current Focus
