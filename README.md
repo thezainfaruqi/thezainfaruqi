@@ -36,7 +36,7 @@ Nah man even the Git hub stats wont work (maybe I need to change it ig)
 </div>
 
 ###
-The project didnt work man ;(
+The spotify playlist thing did'nt work ;(
 ![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
 
 <div align="left">
