@@ -2,13 +2,13 @@
 
 ### About Me
 - 🎓 I'm a huge naruto fan (im actualy okatu)
-- 🌱 Currently learning Python and Lua (also im a goat at JS!)
+- 🌱 Currently making a new song
 - 📚 Working on building my programming skills
 
 ### Current Focus
 - 📊 2d grids
 - To center a div
-
+ 
 ### My Projects
 - Not working on projects until May 2025
 
