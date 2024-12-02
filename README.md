@@ -34,8 +34,6 @@
 </div>
 
 ###
-The spotify playlist thing did'nt work ;(
-![Spotify](https://novatorem-thezainfaruqi.vercel.app/api/spotify)
 
 <div align="left">
 </div>
