@@ -10,7 +10,7 @@
 - To center a div
  
 ### My Projects
-- Not working on projects until May 2025 :(
+- Not working on projects until May 2025 
 
 ### Skills In Progress
 - Git/GitHub
