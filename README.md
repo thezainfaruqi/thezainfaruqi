@@ -6,8 +6,7 @@
 - 📚 Working on building my programming skills
 
 ### Current Focus
-- 📊 2d grids
-- To center a div
+- centering a div
  
 ### My Projects
 - Not working on projects until May 2025 
