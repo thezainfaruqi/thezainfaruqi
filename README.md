@@ -3,7 +3,7 @@
 ### About Me
 - 🎓 I'm a huge naruto fan (im actualy okatu)
 - 🌱 Currently making a new song
-- 📚 Working on building my programming skills
+- 📚 Working on computer solver
 
 ### Current Focus
 - centering a div
