@@ -9,7 +9,7 @@
 - centering a div
  
 ### My Projects
-- Not working on projects until May 2025 
+- sentiment analysis
 
 ### Skills In Progress
 - Git/GitHub
