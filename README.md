@@ -9,7 +9,7 @@
 - centering a div
  
 ### My Projects
-- sentiment analysis
+- sentiment analysis (nvm)
 
 ### Skills In Progress
 - Git/GitHub
