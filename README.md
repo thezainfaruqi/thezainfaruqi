@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">Languages I know:</h3>
+<h3 align="left">
 <div align="left">
  ##<img width="15" />
   <!-- Add more languages here if needed -->
