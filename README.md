@@ -10,7 +10,7 @@
 - pern mern and hug 
  
 ### My Projects
-- sentiment analysis (nvm)
+- sentiment analysis
 
 ### Skills In Progress
 - Git/GitHub
