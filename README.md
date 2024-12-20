@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a shinobi enthusiast</h2>
+<h2 align="left">Hi 👋! My name is Zain Faruqi and I'm a naruto enthusiast</h2>
 
 ### About Me
 - 🎓 I'm a huge naruto fan (im actualy okatu)
