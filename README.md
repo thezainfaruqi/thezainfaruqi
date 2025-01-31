@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Zain Faruqi</h2>
 
-back from vacation!
-Time to lock >;)
+Student
 
 
 ## Connect With Me
