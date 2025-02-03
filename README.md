@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Zain Faruqi</h2>
+
 
 Student
 
