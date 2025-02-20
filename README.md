@@ -1,6 +1,6 @@
 
 
-Student
+Student |hamilton watson west|
 
 
 ## Connect With Me
